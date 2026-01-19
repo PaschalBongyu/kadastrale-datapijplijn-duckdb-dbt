@@ -1,7 +1,0 @@
-# Ignore virtual environment folders
-PDOK/
-pas/
-
-# Python cache and compiled files
-__pycache__/
-*.pyc
